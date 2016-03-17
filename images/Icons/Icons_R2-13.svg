@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 141.7 141.7" enable-background="new 0 0 141.7 141.7" xml:space="preserve">
+<g id="Layer_1">
+	<g>
+		<g>
+			<defs>
+				<circle id="SVGID_11_" cx="70.9" cy="-94.7" r="64.7"/>
+			</defs>
+			<clipPath id="SVGID_2_">
+				<use xlink:href="#SVGID_11_"  overflow="visible"/>
+			</clipPath>
+			<polygon clip-path="url(#SVGID_2_)" fill="#FFFFFF" points="70.9,-198.4 114,-198.4 92.4,-65 70.9,68.3 49.3,-65 27.7,-198.4 			
+				"/>
+		</g>
+	</g>
+	<circle cx="70.9" cy="70.9" r="64"/>
+	<path stroke="#FFFFFF" stroke-width="3.6003" stroke-linejoin="round" stroke-miterlimit="10" d="M88.9,34.7H32.7
+		c-2.1,0-3.7,1.7-3.7,3.7v25.4c0,2.1,1.7,3.7,3.7,3.7h5.5l0.4,3.8l0.7,6.5l3.6-5.5l3.2-4.8h42.8c2.1,0,3.7-1.7,3.7-3.7V38.5
+		C92.6,36.4,91,34.7,88.9,34.7z"/>
+	<path stroke="#FFFFFF" stroke-width="3.6003" stroke-linejoin="round" stroke-miterlimit="10" d="M61.9,74.6h47
+		c1.7,0,3.1,1.4,3.1,3.1v21.2c0,1.7-1.4,3.1-3.1,3.1h-4.6l-0.3,3.2l-0.5,5.5l-3-4.6l-2.7-4H61.9c-1.7,0-3.1-1.4-3.1-3.1V77.7
+		C58.8,76,60.2,74.6,61.9,74.6z"/>
+	<path fill="none" stroke="#FFFFFF" stroke-width="1.6068" stroke-linejoin="round" stroke-miterlimit="10" d="M88.9,34.7H32.7
+		c-2.1,0-3.7,1.7-3.7,3.7v25.4c0,2.1,1.7,3.7,3.7,3.7h5.5l0.4,3.8l0.7,6.5l3.6-5.5l3.2-4.8h42.8c2.1,0,3.7-1.7,3.7-3.7V38.5
+		C92.6,36.4,91,34.7,88.9,34.7z"/>
+	<circle fill="#FFFFFF" cx="76.3" cy="87.9" r="1.3"/>
+	<circle fill="#FFFFFF" cx="80.9" cy="87.9" r="1.3"/>
+	<circle fill="#FFFFFF" cx="85.4" cy="87.9" r="1.3"/>
+	<circle fill="#FFFFFF" cx="90" cy="87.9" r="1.3"/>
+	<circle fill="#FFFFFF" cx="94.5" cy="87.9" r="1.3"/>
+	<circle fill="#FFFFFF" cx="54.5" cy="50.8" r="1.3"/>
+	<circle fill="#FFFFFF" cx="49.7" cy="50.8" r="1.3"/>
+	<circle fill="#FFFFFF" cx="59" cy="50.8" r="1.3"/>
+	<circle fill="#FFFFFF" cx="63.6" cy="50.8" r="1.3"/>
+	<circle fill="#FFFFFF" cx="68.2" cy="50.8" r="1.3"/>
+	<circle fill="#FFFFFF" cx="72.7" cy="50.8" r="1.3"/>
+</g>
+<g id="Layer_2">
+</g>
+</svg>
